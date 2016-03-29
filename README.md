@@ -1,4 +1,4 @@
 # LOT7S
-Awesome game developed by ThyCap and Pants 
+Awesome game developed by ThyCap, Pants and Russian 
 
 Hi fellow humans!
